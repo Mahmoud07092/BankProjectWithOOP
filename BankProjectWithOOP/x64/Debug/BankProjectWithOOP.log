@@ -1,0 +1,27 @@
+﻿  BankProjectWithOOP.cpp
+C:\Users\Mahmoud\Desktop\Cources\UploadToGit\BankProjectWithOOP\BankProjectWithOOP\clsString.h(48,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Mahmoud\Desktop\Cources\UploadToGit\BankProjectWithOOP\BankProjectWithOOP\clsString.h(78,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Mahmoud\Desktop\Cources\UploadToGit\BankProjectWithOOP\BankProjectWithOOP\clsString.h(83,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Mahmoud\Desktop\Cources\UploadToGit\BankProjectWithOOP\BankProjectWithOOP\clsString.h(213,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Mahmoud\Desktop\Cources\UploadToGit\BankProjectWithOOP\BankProjectWithOOP\clsString.h(357,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Mahmoud\Desktop\Cources\UploadToGit\BankProjectWithOOP\BankProjectWithOOP\clsString.h(409,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Mahmoud\Desktop\Cources\UploadToGit\BankProjectWithOOP\BankProjectWithOOP\clsBankClient.h(34,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mahmoud\Desktop\Cources\UploadToGit\BankProjectWithOOP\BankProjectWithOOP\clsBankClient.h(387,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mahmoud\Desktop\Cources\UploadToGit\BankProjectWithOOP\BankProjectWithOOP\clsBankClient.h(393,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mahmoud\Desktop\Cources\UploadToGit\BankProjectWithOOP\BankProjectWithOOP\clsBankClient.h(404,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mahmoud\Desktop\Cources\UploadToGit\BankProjectWithOOP\BankProjectWithOOP\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+C:\Users\Mahmoud\Desktop\Cources\UploadToGit\BankProjectWithOOP\BankProjectWithOOP\clsUser.h(229,12): warning C4240: nonstandard extension used: access to 'clsUser::stTransferRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\Mahmoud\Desktop\Cources\UploadToGit\BankProjectWithOOP\BankProjectWithOOP\clsUser.h(245,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\Mahmoud\Desktop\Cources\UploadToGit\BankProjectWithOOP\BankProjectWithOOP\clsInputValidate.h(121,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mahmoud\Desktop\Cources\UploadToGit\BankProjectWithOOP\BankProjectWithOOP\clsInputValidate.h(126,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mahmoud\Desktop\Cources\UploadToGit\BankProjectWithOOP\BankProjectWithOOP\clsAddNewClientScreen.h(31,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mahmoud\Desktop\Cources\UploadToGit\BankProjectWithOOP\BankProjectWithOOP\clsUpdateClientScreen.h(48,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mahmoud\Desktop\Cources\UploadToGit\BankProjectWithOOP\BankProjectWithOOP\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mahmoud\Desktop\Cources\UploadToGit\BankProjectWithOOP\BankProjectWithOOP\clsTransferScreen.h(72,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mahmoud\Desktop\Cources\UploadToGit\BankProjectWithOOP\BankProjectWithOOP\clsTransferScreen.h(77,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mahmoud\Desktop\Cources\UploadToGit\BankProjectWithOOP\BankProjectWithOOP\clsCurrency.h(33,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mahmoud\Desktop\Cources\UploadToGit\BankProjectWithOOP\BankProjectWithOOP\clsUpdateCurrencyRateScreen.h(17,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mahmoud\Desktop\Cources\UploadToGit\BankProjectWithOOP\BankProjectWithOOP\clsCurrencyCalculatorScreen.h(17,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mahmoud\Desktop\Cources\UploadToGit\BankProjectWithOOP\BankProjectWithOOP\clsBankClient.h(333): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\Mahmoud\Desktop\Cources\UploadToGit\BankProjectWithOOP\BankProjectWithOOP\clsUser.h(410): warning C4715: 'clsUser::Save': not all control paths return a value
+  BankProjectWithOOP.vcxproj -> C:\Users\Mahmoud\Desktop\Cources\UploadToGit\BankProjectWithOOP\x64\Debug\BankProjectWithOOP.exe
